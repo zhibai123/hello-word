@@ -1,2 +1,1 @@
-# hello-word
-just a repository
+hello word1
